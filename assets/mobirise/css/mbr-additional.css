@@ -1437,7 +1437,7 @@ section.lazy-placeholder:after {
 .cid-rTMq1IxwUu {
   padding-top: 135px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #f4f4f4;
 }
 .cid-rTMq1IxwUu P {
   color: #767676;
@@ -1449,8 +1449,19 @@ section.lazy-placeholder:after {
 .cid-rTMq1IxwUu .mbr-section-btn {
   color: #565353;
 }
+.cid-s1jF6JeDre {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #f4f4f4;
+}
+.cid-s1jF6JeDre .mbr-text {
+  color: #000000;
+}
+.cid-s1jF6JeDre .mbr-text P {
+  text-align: right;
+}
 .cid-rZwthuiYy7 {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
@@ -5531,17 +5542,6 @@ section.lazy-placeholder:after {
     width: 90% !important;
   }
 }
-.cid-rZwzV352m4 {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rZwzV352m4 .mbr-text {
-  color: #000000;
-}
-.cid-rZwzV352m4 .mbr-text P {
-  text-align: justify;
-}
 .cid-s1dRY0Eaam {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -5551,6 +5551,17 @@ section.lazy-placeholder:after {
   color: #000000;
 }
 .cid-s1dRY0Eaam .mbr-text P {
+  text-align: justify;
+}
+.cid-s1dUo2eupZ {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-s1dUo2eupZ .mbr-text {
+  color: #000000;
+}
+.cid-s1dUo2eupZ .mbr-text P {
   text-align: justify;
 }
 .cid-s1dTEujSGK {
@@ -5615,7 +5626,7 @@ section.lazy-placeholder:after {
 .cid-s1dSkQ6c1R {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-s1dSkQ6c1R .mbr-text,
 .cid-s1dSkQ6c1R blockquote {
@@ -5630,17 +5641,6 @@ section.lazy-placeholder:after {
 .cid-s1dSkQ6c1R P {
   color: #000000;
   text-align: center;
-}
-.cid-s1dTABaZ0L {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #efefef;
-}
-.cid-s1dTABaZ0L .mbr-text {
-  color: #000000;
-}
-.cid-s1dTABaZ0L .mbr-text P {
-  text-align: justify;
 }
 .cid-s1dSU5rOAK {
   padding-top: 45px;
@@ -5692,15 +5692,15 @@ section.lazy-placeholder:after {
     -webkit-flex-basis: initial !important;
   }
 }
-.cid-s1dUo2eupZ {
+.cid-s1dTABaZ0L {
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: #efefef;
 }
-.cid-s1dUo2eupZ .mbr-text {
+.cid-s1dTABaZ0L .mbr-text {
   color: #000000;
 }
-.cid-s1dUo2eupZ .mbr-text P {
+.cid-s1dTABaZ0L .mbr-text P {
   text-align: justify;
 }
 .cid-rTMpLEi33d {
