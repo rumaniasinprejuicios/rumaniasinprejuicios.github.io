@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-18_2039",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -75,7 +75,7 @@
         "url": "https://fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i,700,700i"
       }
     ],
-    "uniqCompNum": 203,
+    "uniqCompNum": 204,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -905,9 +905,9 @@
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "postToLoad": "3",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": 3,
             "facebookToken": "",
             "facebook": "",
             "twitter": "ROsinprejuicios",
@@ -925,7 +925,7 @@
             "Extension"
           ],
           "_name": "feed",
-          "_anchor": "feed-5l"
+          "_anchor": "feed-5n"
         },
         {
           "_params": {
