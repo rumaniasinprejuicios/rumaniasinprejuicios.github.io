@@ -1451,7 +1451,7 @@ section.lazy-placeholder:after {
 }
 .cid-s1jF6JeDre {
   padding-top: 30px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s1jF6JeDre .mbr-text {
@@ -4295,15 +4295,169 @@ section.lazy-placeholder:after {
   color: #000000;
   text-align: center;
 }
+.cid-s1uDzCSsSu {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s1uDzCSsSu .mbr-text,
+.cid-s1uDzCSsSu blockquote {
+  color: #767676;
+}
+.cid-s1uDzCSsSu P {
+  text-align: justify;
+}
 .cid-s1pl1zgjW3 {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s1pl1zgjW3 .mbr-text {
   color: #000000;
 }
 .cid-s1pl1zgjW3 .mbr-text P {
+  text-align: justify;
+}
+.cid-s1vWO9jsdt {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-s1vWO9jsdt .counter-container {
+  color: #767676;
+}
+.cid-s1vWO9jsdt .counter-container ol {
+  margin-bottom: 0;
+  counter-reset: myCounter;
+}
+.cid-s1vWO9jsdt .counter-container ol li {
+  margin-bottom: 1rem;
+}
+.cid-s1vWO9jsdt .counter-container ol li {
+  list-style: none;
+  padding-left: .5rem;
+}
+.cid-s1vWO9jsdt .counter-container ol li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  counter-increment: myCounter;
+  content: counter(myCounter);
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 40px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #8f804a;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.cid-s1vWO9jsdt .mbr-text {
+  color: #000000;
+}
+.cid-s1vXF4JZhR {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s1vXF4JZhR .mbr-text {
+  color: #000000;
+}
+.cid-s1vXF4JZhR .mbr-text P {
+  text-align: justify;
+}
+.cid-s1vXYpU8aa {
+  padding-top: 135px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/dsc-145-2000x1333.jpg");
+}
+.cid-s1vXYpU8aa P {
+  color: #767676;
+}
+.cid-s1vXYpU8aa .mbr-text,
+.cid-s1vXYpU8aa .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s1vXYpU8aa H1 {
+  color: #ffffff;
+}
+.cid-s1w04FO2Xi {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s1w04FO2Xi .mbr-text,
+.cid-s1w04FO2Xi blockquote {
+  color: #767676;
+}
+.cid-s1w04FO2Xi .mbr-text P {
+  text-align: left;
+}
+.cid-s1w04FO2Xi .mbr-text {
+  color: #ffffff;
+}
+.cid-s1w04FO2Xi P {
+  color: #000000;
+  text-align: center;
+}
+.cid-s1vY7TTU6o {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s1vY7TTU6o .mbr-text {
+  color: #000000;
+}
+.cid-s1vY7TTU6o .mbr-text P {
+  text-align: justify;
+}
+.cid-s1vZxSmtv2 {
+  padding-top: 45px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/pata-rat-george-popescu-poqe-2-1160x773.jpg");
+}
+.cid-s1vZxSmtv2 P {
+  color: #767676;
+}
+.cid-s1vZxSmtv2 .mbr-text,
+.cid-s1vZxSmtv2 .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s1vZxSmtv2 H1 {
+  color: #ffffff;
+}
+.cid-s1w02ITfln {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s1w02ITfln .mbr-text,
+.cid-s1w02ITfln blockquote {
+  color: #767676;
+}
+.cid-s1w02ITfln .mbr-text P {
+  text-align: left;
+}
+.cid-s1w02ITfln .mbr-text {
+  color: #ffffff;
+}
+.cid-s1w02ITfln P {
+  color: #000000;
+  text-align: center;
+}
+.cid-s1w03fFq3m {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-s1w03fFq3m .mbr-text {
+  color: #000000;
+}
+.cid-s1w03fFq3m .mbr-text P {
   text-align: justify;
 }
 .cid-rTMpLEi33d {
