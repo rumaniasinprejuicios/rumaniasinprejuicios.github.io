@@ -33,7 +33,8 @@
         "#8f804a",
         "#565353",
         "#000000",
-        "#f4f4f4"
+        "#f4f4f4",
+        "#554346"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -75,7 +76,7 @@
         "url": "https://fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i,700,700i"
       }
     ],
-    "uniqCompNum": 223,
+    "uniqCompNum": 228,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -5313,11 +5314,314 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\" selected>1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n        </select>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-12': cardsAmount == 1, 'col-md-4': cardsAmount == 3}\">\n                     <p>Sin acceso a la educación es complicado optar a un puesto trabajo digno. Esto provoca que la persona no disponga de suficientes ingresos, por lo que tener una casa decente se convierte en toda una odisea. Sin un lugar de residencia legal, en Rumanía no puedes tener carnet de identidad y sin identificación no tienes acceso a la sanidad. Este es el círculo vicioso en el que se ven inmersos los habitantes de Pata-Rât. Es la realidad que viven los adultos y el destino que les espera a los niños y niñas.</p><p>Dos años después del desahucio de Coastei, en 2012, el vecindado comenzó a organizarse y creó una asociación romaní. Querían comenzar a luchar por sus derechos y visibilizar su situación. Hicieron varias propuestas y contaron con el apoyo de diversas organizaciones como Amnistía Internacional o el Centro Europeo de Derechos de los Romaníes&nbsp;(ERRC). “La gente de Coastei se organizó y creó un lobby para cambiar la situación. A raíz de estas protestas se creó un programa de intervención social para desegregar Pata-Rât, realojar algunas familias y cubrir aspectos como la educación, salud, trabajo y cultura”, afirma Barniol. Este proyecto se llama Pata-Cluj y su culminación fue la reubicación de 35 familias en viviendas sociales a finales de 2017.</p><p><br></p><p>El proyecto comenzó a funcionar cuando se aprobó una subvención del Espacio Económico Europeo (EEE) y Noruega. Se trata de una ayuda que pretende contribuir a la creación de una Europa más equitativa. La subvención era de cuatro millones de euros y estaba financiada por Islandia, Liechtenstein y Noruega. Con este presupuesto se implementaron mejoras para los habitantes de Pata-Rât y se construyeron los 35 hogares en los que se iban a reubicar a las familias seleccionadas.</p><p><span style=\"font-size: 1.25rem;\">Pero no todo es lo que parece. La relación entre los promotores del proyecto y los ciudadanos del vertedero fue muy complicada. “Al ser una comunidad expulsada y excluida, presentaban mucha desconfianza hacia el proyecto”, afirma Clara. Pepe, por su parte, explica que “la comunidad no confiaba porque no entendían que lo que se iba a hacer, no creían que las casas sociales estuvieran disponibles para ellos. Era un sueño imposible, cómo iban a creerlo”. Durante todo el proyecto, el activista trabajó voluntariamente como mediador entre los impulsores del programa y los ciudadanos del gueto.</span><br></p><p><span style=\"font-size: 1.25rem;\">En 2017, un sueño se cumplía para treinta y cinco familias. Por fin, después de siete años malviviendo, iban a tener una vivienda digna de más de dieciséis metros cuadrados, con cocina, electricidad, agua corriente y varias habitaciones. Pepe, su mujer y su hijo recibieron uno de los alojamientos sociales ofrecidos por Pata-Cluj: “Mi vida ha cambiado mucho desde que me trasladé a la ciudad. Lentamente, comencé a recuperarme del trauma de vivir durante siete años en Pata-Rât y de todo lo que vi. Además, he notado un gran avance en el comportamiento de mi hijo. Todo va mejor, se porta bien en escuela, con la familia... También la vida es mejor para mí. Sigo yendo todas las semanas al vertedero y siempre estaré para la gente de allí. Esta es una lucha por los derechos de las personas de etnia gitana, no solo en Cluj, sino en toda Europa”.&nbsp;</span><br></p><p><br></p><p>El tener una vivienda digna y adecuada se supone que es un derecho universal. Sin embargo, para muchas personas se convierte en una de sus mayores aspiraciones. Hoy, la vida vuelve a sonreírle a Pepe y a las personas de su alrededor. “Nosotros, al igual que las otras 34 familias reubicadas, estamos viviendo un sueño. Trabajamos, pagamos nuestras facturas, no tenemos peleas con los vecinos... Es mucho mejor de lo que nunca podríamos haber imaginado”.&nbsp;</p><p><br></p><p>El éxito de este primer programa, ha derivado en la creación de una segunda intervención. Los activistas ya están trabajando en un “Pata-Cluj 2”. Este proyecto ha solventado la vida de treinta y cinco familias, pero en el vertedero continúan viviendo más de 1.500 personas. Durante el documental, un activista manifestó: “Debido a la dinámica estructural, existe el riesgo de que cada vez más personas sean empujadas a la marginación, pobreza y el tipo de vivienda de Pata-Rât. No podremos deshacernos del vertedero si seguimos produciendo personas extremadamente pobres, precarias y marginadas en cinta transportadora”.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>\n                </div>\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                     <p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>\n                </div>\n                <div class=\"col-12 col-md-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-if=\"cardsAmount > 2\">\n                     <p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\" selected>1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n        </select>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-12': cardsAmount == 1, 'col-md-4': cardsAmount == 3}\">\n                     <p>Sin acceso a la <b>educación</b> es complicado optar a un puesto <b>trabajo digno</b>. Esto provoca que la persona no disponga de <b>suficientes ingresos</b>, por lo que tener <b>una</b> <b>casa</b> decente se convierte en toda una odisea. Sin un lugar de residencia legal, en Rumanía no puedes tener <b>carnet de identidad</b> y sin identificación no tienes acceso a la <b>sanidad</b>. Este es el <b>círculo vicioso</b> en el que se ven inmersos los habitantes de Pata-Rât. Es la realidad que viven los adultos y el destino que les espera a los niños y niñas.</p><p>Dos años después del desahucio de Coastei, en 2012, el vecindado comenzó a organizarse y creó una <b>asociación romaní. Querían comenzar a luchar por sus derechos y visibilizar su situación.</b> Hicieron varias propuestas y contaron con el apoyo de diversas organizaciones como Amnistía Internacional o el Centro Europeo de Derechos de los Romaníes&nbsp;(ERRC). “La gente de Coastei se organizó y creó un <i>lobby</i> para cambiar la situación. A raíz de estas protestas <b>se creó un programa de intervención social para desegregar Pata-Rât,</b> realojar algunas familias y cubrir aspectos como la educación, salud, trabajo y cultura”, afirma Barniol. <b>Este proyecto se llama <a href=\"https://www.facebook.com/patacluj/\" target=\"_blank\"><b>Pata-Cluj</b></a></b> <b>y su culminación fue la reubicación de 35 familias en viviendas sociales a finales de 2017\", afirma la periodista.</b></p>\n                </div>\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                     <p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>\n                </div>\n                <div class=\"col-12 col-md-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-if=\"cardsAmount > 2\">\n                     <p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content3-5x",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "s1w03fFq3m",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-slider .carousel-control": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-slider .carousel-control-prev": {
+              "left": "0",
+              "margin-left": "2.5rem"
+            },
+            ".mbr-slider .carousel-control-next": {
+              "right": "0",
+              "margin-right": "2.5rem"
+            },
+            ".mbr-slider .modal-body .close": {
+              "background": "#1b1b1b"
+            },
+            ".row > .row": {
+              "display": "block"
+            },
+            ".mbr-gallery-item": {
+              "width": "100%"
+            },
+            ".mbr-gallery-item > div::before": {
+              "content": "''",
+              "position": "absolute",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "background": "@overlayColor",
+              "opacity": "0",
+              "-webkit-transition": "0.2s opacity ease-in-out",
+              "transition": "0.2s opacity ease-in-out",
+              "& when (@gradOverlay)": {
+                "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+              }
+            },
+            ".mbr-gallery-item > div": {
+              "position": "relative",
+              "&:hover": {
+                ".mbr-gallery-title::before": {
+                  "background": "transparent !important"
+                },
+                "&:before": {
+                  "opacity": "@overlayOpacity !important"
+                }
+              }
+            },
+            ".mbr-gallery-title": {
+              "font-size": ".9em",
+              "position": "absolute",
+              "display": "block",
+              "width": "100%",
+              "bottom": "0",
+              "padding": "1rem",
+              "color": "#fff",
+              "z-index": "2",
+              "&:before": {
+                "content": "\" \"",
+                "width": "100%",
+                "height": "100%",
+                "top": "0",
+                "left": "0",
+                "z-index": "-1",
+                "position": "absolute",
+                "background": "@overlayColor !important",
+                "opacity": "@overlayOpacity",
+                "-webkit-transition": "0.2s background ease-in-out",
+                "transition": "0.2s background ease-in-out",
+                "& when (@gradOverlay)": {
+                  "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+                }
+              }
+            }
+          },
+          "_name": "gallery4",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\">\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#000000\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        \n        <header>Gallery</header>\n        <input type=\"gallery\" subtype=\"flex\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"2\" mbr-gallery-count=\"3\" mbr-gallery-first-count=\"2\" mbr-gallery-second-count=\"1\" mbr-gallery-third-count=\"2\" mbr-gallery-fourth-count=\"2\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_anchor": "gallery4-69",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "s1wxOsm8md",
+          "_protectedParams": [
+            "gallery"
+          ],
+          "_global": false,
+          "_once": false,
+          "_params": {
+            "gallery": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/15591637-1903588323202598-5653835423266193319-o-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15591637-1903588323202598-5653835423266193319-o-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Habitantes de Pata-Rât y voluntarios del proyecto pintaron pancartas en 2016 para denunciar su situación <b>|Pata-Cluj</b>",
+                "active": false
+              },
+              {
+                "tags": "Increíble",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/15723554-1903588239869273-7263874029358332476-o-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15723554-1903588239869273-7263874029358332476-o-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "En cartel de la izquierda, demandan una vivienda en condiciones. En el de la derecha, han escrito: \"Queremos ser trasladados a la ciudad\" <b>|Pata-Cluj</b>",
+                "active": false
+              },
+              {
+                "tags": "Creativa",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/15626031-1903588316535932-8381957826380478723-o-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15626031-1903588316535932-8381957826380478723-o-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Escriben \"la vivienda es un derecho, no un privilegio\". El hombre con la chaqueta verde es Alexandru Fechete (Pepe) <b>|Pata-Cluj</b>",
+                "active": true
+              }
+            ]
+          }
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "color": "#000000"
+            },
+            ".mbr-text P": {
+              "text-align": "justify"
+            }
+          },
+          "_name": "content3",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\" selected>1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n        </select>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-12': cardsAmount == 1, 'col-md-4': cardsAmount == 3}\">\n                     <p>El proyecto comenzó a funcionar cuando se aprobó una <b><a href=\"https://eeagrants.org/about-us\" target=\"_blank\"><b>subvención del Espacio Económico Europeo (EEE) y Noruega</b></a>. </b>Se trata de una ayuda que pretende contribuir a la creación de una Europa más equitativa. La subvención era de <b>cuatro millones de euros</b> y estaba financiada por Islandia, Liechtenstein y Noruega. Con este <a href=\"https://eeagrants.org/archive/2009-2014/projects/RO25-0001\" target=\"_blank\">presupuesto</a> se <b>implementaron mejoras</b> para los habitantes de Pata-Rât y se <b>construyeron los 35 hogares </b>en diferentes lugares de Cluj-Napoca para reubicar a las familias seleccionadas.</p><p>Pero no todo es lo que parece. <b>La relación entre los promotores del proyecto y los ciudadanos del vertedero fue muy complicada</b>. “Al ser una comunidad expulsada y excluida, <b>presentaban mucha desconfianza</b> hacia el proyecto”, afirma Barniol. Pepe, por su parte, explica que “la comunidad no confiaba porque no entendían que lo que se iba a hacer, no creían que las casas sociales estuvieran disponibles para ellos. <b>Era un sueño imposible, cómo iban a creerlo”. </b>Durante todo el proyecto, el activista trabajó voluntariamente como mediador entre los impulsores del programa y los ciudadanos del gueto.</p><p><b>En 2017, un sueño se cumplía para treinta y cinco familias.</b> Por fin, después de siete años malviviendo en el vertedero, iban a tener una vivienda digna de más de dieciséis metros cuadrados, con cocina, electricidad, agua corriente y varias habitaciones. <b>Pepe, su mujer y su hijo recibieron uno de los alojamientos sociales</b> ofrecidos por Pata-Cluj: “Mi vida ha cambiado mucho desde que me trasladé a la ciudad.<b> Lentamente, comencé a recuperarme del trauma de vivir durante siete años en Pata-Rât </b>y de todo lo que vi. Además, he notado un g<b>ran avance en el comportamiento de mi hijo. </b>Todo va mejor, se porta bien en escuela, con la familia... También la vida es mejor para mí. Sigo yendo todas las semanas al vertedero y siempre estaré para la gente de allí. <b>Esta es una lucha por los derechos de las personas de etnia gitana, no solo en Cluj, sino en toda Europa”.&nbsp;</b></p>\n                </div>\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                     <p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>\n                </div>\n                <div class=\"col-12 col-md-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-if=\"cardsAmount > 2\">\n                     <p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content3-68",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "s1wwNhTkZB",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-slider .carousel-control": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-slider .carousel-control-prev": {
+              "left": "0",
+              "margin-left": "2.5rem"
+            },
+            ".mbr-slider .carousel-control-next": {
+              "right": "0",
+              "margin-right": "2.5rem"
+            },
+            ".mbr-slider .modal-body .close": {
+              "background": "#1b1b1b"
+            },
+            ".row > .row": {
+              "display": "block"
+            },
+            ".mbr-gallery-item": {
+              "width": "100%"
+            },
+            ".mbr-gallery-item > div::before": {
+              "content": "''",
+              "position": "absolute",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "background": "@overlayColor",
+              "opacity": "0",
+              "-webkit-transition": "0.2s opacity ease-in-out",
+              "transition": "0.2s opacity ease-in-out",
+              "& when (@gradOverlay)": {
+                "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+              }
+            },
+            ".mbr-gallery-item > div": {
+              "position": "relative",
+              "&:hover": {
+                ".mbr-gallery-title::before": {
+                  "background": "transparent !important"
+                },
+                "&:before": {
+                  "opacity": "@overlayOpacity !important"
+                }
+              }
+            },
+            ".mbr-gallery-title": {
+              "font-size": ".9em",
+              "position": "absolute",
+              "display": "block",
+              "width": "100%",
+              "bottom": "0",
+              "padding": "1rem",
+              "color": "#fff",
+              "z-index": "2",
+              "&:before": {
+                "content": "\" \"",
+                "width": "100%",
+                "height": "100%",
+                "top": "0",
+                "left": "0",
+                "z-index": "-1",
+                "position": "absolute",
+                "background": "@overlayColor !important",
+                "opacity": "@overlayOpacity",
+                "-webkit-transition": "0.2s background ease-in-out",
+                "transition": "0.2s background ease-in-out",
+                "& when (@gradOverlay)": {
+                  "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+                }
+              }
+            }
+          },
+          "_name": "gallery4",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\">\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        \n        <header>Gallery</header>\n        <input type=\"gallery\" subtype=\"flex\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"2\" mbr-gallery-count=\"2\" mbr-gallery-first-count=\"2\" mbr-gallery-second-count=\"4\" mbr-gallery-third-count=\"2\" mbr-gallery-fourth-count=\"2\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_anchor": "gallery4-6b",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "s1wBAlNyI2",
+          "_protectedParams": [
+            "gallery"
+          ],
+          "_global": false,
+          "_once": false,
+          "_params": {
+            "gallery": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/pata-rat-george-popescu-poqe-8-1160x773.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/pata-rat-george-popescu-poqe-8-1160x773-800x598.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Alexandru Fechete en Pata-Rât, considerado el mayor gueto de Europa en torno a un vertedero&nbsp;<b>|George Popescu</b>",
+                "active": false
+              },
+              {
+                "tags": "Increíble",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/1236545-1391385534422882-1436581050-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1236545-1391385534422882-1436581050-n-960x720-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "En 2013, Pata-Cluj promovió la <a href=\"https://www.facebook.com/pg/patacluj/photos/?tab=album&amp;album_id=1391384101089692\" target=\"_blank\">construcción de una sala con ordenadores</a>, pupitres y sillas para los habitantes del vertedero <b>|Pata-Cluj</b>",
+                "active": true
+              }
+            ]
+          }
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "color": "#000000"
+            },
+            ".mbr-text P": {
+              "text-align": "justify"
+            }
+          },
+          "_name": "content3",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\" selected>1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n        </select>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-12': cardsAmount == 1, 'col-md-4': cardsAmount == 3}\">\n                     <p><b>Se supone que tener una vivienda digna y adecuada es un derecho universal</b>.&nbsp;<span style=\"font-size: 1.25rem;\">Sin embargo, para muchas personas se convierte en una de sus mayores aspiraciones. Hoy, la vida vuelve a sonreírle a Pepe y a las personas de su alrededor. <b>“Nosotros, al igual que las otras 34 familias reubicadas, estamos viviendo un sueño.</b> <b>Trabajamos, pagamos nuestras facturas, no tenemos peleas con los vecinos... </b>Es mucho mejor de lo que nunca podríamos haber imaginado”, expresa.</span></p><p>El éxito de este primer programa ha derivado en la propuesta de una segunda intervención. <b>Los activistas ya están trabajando en un “Pata-Cluj 2”.</b> Este proyecto ha solventado la vida de treinta y cinco familias, pero <b>en el vertedero continúan viviendo más de 1.500 personas. </b>Durante el documental, un activista manifestó: “Debido a la dinámica estructural, existe el riesgo de que cada vez más personas sean empujadas a la marginación, pobreza y el tipo de vivienda de Pata-Rât.<b> No podremos deshacernos del vertedero si seguimos produciendo personas extremadamente pobres, precarias y marginadas en cinta transportadora”.</b></p>\n                </div>\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                     <p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>\n                </div>\n                <div class=\"col-12 col-md-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-if=\"cardsAmount > 2\">\n                     <p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content3-6a",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "s1wBnmDX4B",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
