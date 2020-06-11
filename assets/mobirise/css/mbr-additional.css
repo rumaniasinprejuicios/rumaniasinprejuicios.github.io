@@ -4253,11 +4253,10 @@ section.lazy-placeholder:after {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #554346;
+  background: #000000;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rX4JAtpbSd .mbr-gallery-item > div {
   position: relative;
@@ -4286,11 +4285,10 @@ section.lazy-placeholder:after {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #554346 !important;
+  background: #000000 !important;
   opacity: 0.3;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rX58tUSLVt {
   padding-top: 15px;
@@ -4349,8 +4347,8 @@ section.lazy-placeholder:after {
 }
 .cid-rX0ufkqYWK {
   background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 30px;
+  padding-bottom: 15px;
 }
 .cid-rX0ufkqYWK .image-block {
   margin: auto;
