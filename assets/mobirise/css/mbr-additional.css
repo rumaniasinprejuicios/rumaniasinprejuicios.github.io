@@ -1968,6 +1968,29 @@ section.lazy-placeholder:after {
 .cid-s1PDg2A14R .mbr-text P {
   text-align: justify;
 }
+.cid-s1TrXFYnET {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-s1TrXFYnET .line {
+  background-color: #8f804a;
+  color: #8f804a;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s1TrXFYnET .section-text {
+  padding: 2rem 0;
+}
+.cid-s1TrXFYnET .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s1TrXFYnET .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-s1PE6fycH7 {
   padding-top: 0px;
   padding-bottom: 0px;
