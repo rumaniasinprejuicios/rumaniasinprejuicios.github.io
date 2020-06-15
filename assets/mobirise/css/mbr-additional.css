@@ -4271,10 +4271,22 @@ section.lazy-placeholder:after {
 .cid-s1Ymhio8JV .mbr-text P {
   text-align: justify;
 }
+.cid-s1ZLuL3rX2 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-s1ZLuL3rX2 P {
+  color: #767676;
+}
+.cid-s1ZLuL3rX2 .mbr-text,
+.cid-s1ZLuL3rX2 .mbr-section-btn {
+  text-align: center;
+}
 .cid-s1Z48bb8N0 {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #efefef;
 }
 .cid-s1Z48bb8N0 .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -4316,7 +4328,7 @@ section.lazy-placeholder:after {
   background: transparent !important;
 }
 .cid-s1Z48bb8N0 .mbr-gallery-item > div:hover:before {
-  opacity: 0.3 !important;
+  opacity: 0.5 !important;
 }
 .cid-s1Z48bb8N0 .mbr-gallery-title {
   font-size: .9em;
@@ -4337,15 +4349,15 @@ section.lazy-placeholder:after {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.3;
+  opacity: 0.5;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-s1ZCQnVOXM {
-  padding-top: 45px;
+  padding-top: 0px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-s1ZCQnVOXM .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -4542,7 +4554,7 @@ section.lazy-placeholder:after {
   background: transparent !important;
 }
 .cid-s1Z9AWrljU .mbr-gallery-item > div:hover:before {
-  opacity: 0.3 !important;
+  opacity: 0.4 !important;
 }
 .cid-s1Z9AWrljU .mbr-gallery-title {
   font-size: .9em;
@@ -4563,7 +4575,7 @@ section.lazy-placeholder:after {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.3;
+  opacity: 0.4;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
