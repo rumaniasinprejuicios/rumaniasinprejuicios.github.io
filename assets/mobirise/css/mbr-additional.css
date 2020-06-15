@@ -4175,8 +4175,8 @@ section.lazy-placeholder:after {
   text-align: justify;
 }
 .cid-s1Z0t3aGad {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 0px;
+  padding-bottom: 60px;
   background: #efefef;
 }
 .cid-s1Z0t3aGad .media-container-row {
@@ -4271,6 +4271,77 @@ section.lazy-placeholder:after {
 .cid-s1Ymhio8JV .mbr-text P {
   text-align: justify;
 }
+.cid-s1Z48bb8N0 {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-s1Z48bb8N0 .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-s1Z48bb8N0 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-s1Z48bb8N0 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-s1Z48bb8N0 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-s1Z48bb8N0 .row > .row {
+  display: block;
+}
+.cid-s1Z48bb8N0 .mbr-gallery-item {
+  width: 100%;
+}
+.cid-s1Z48bb8N0 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-s1Z48bb8N0 .mbr-gallery-item > div {
+  position: relative;
+}
+.cid-s1Z48bb8N0 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-s1Z48bb8N0 .mbr-gallery-item > div:hover:before {
+  opacity: 0.3 !important;
+}
+.cid-s1Z48bb8N0 .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-s1Z48bb8N0 .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.3;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
 .cid-s1YmrpoimU {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -4321,6 +4392,29 @@ section.lazy-placeholder:after {
 .cid-s1YmvrHqGy .mbr-text P {
   text-align: justify;
 }
+.cid-s1Z7o0Pehv {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-s1Z7o0Pehv .line {
+  background-color: #8f804a;
+  color: #8f804a;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s1Z7o0Pehv .section-text {
+  padding: 2rem 0;
+}
+.cid-s1Z7o0Pehv .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s1Z7o0Pehv .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-s1YmCZx87g {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -4332,6 +4426,77 @@ section.lazy-placeholder:after {
 .cid-s1YmCZx87g .mbr-text P {
   text-align: justify;
 }
+.cid-s1Z6NMkK9p {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-s1Z6NMkK9p .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-s1Z6NMkK9p .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-s1Z6NMkK9p .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-s1Z6NMkK9p .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-s1Z6NMkK9p .row > .row {
+  display: block;
+}
+.cid-s1Z6NMkK9p .mbr-gallery-item {
+  width: 100%;
+}
+.cid-s1Z6NMkK9p .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-s1Z6NMkK9p .mbr-gallery-item > div {
+  position: relative;
+}
+.cid-s1Z6NMkK9p .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-s1Z6NMkK9p .mbr-gallery-item > div:hover:before {
+  opacity: 0.3 !important;
+}
+.cid-s1Z6NMkK9p .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-s1Z6NMkK9p .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.3;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
 .cid-s1YmEP8p85 {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -4342,6 +4507,11 @@ section.lazy-placeholder:after {
 }
 .cid-s1YmEP8p85 .mbr-text P {
   text-align: justify;
+}
+.cid-s1Z6QFZyLP {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-rW3kKRSs4s .navbar {
   padding: .5rem 0;
