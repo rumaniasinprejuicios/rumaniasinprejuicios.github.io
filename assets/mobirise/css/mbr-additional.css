@@ -8784,13 +8784,28 @@ section.lazy-placeholder:after {
 .cid-s1MNtZ7hrs H1 {
   color: #ffffff;
 }
+.cid-s20k6Y93Ml {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-s20k6Y93Ml .mbr-text,
+.cid-s20k6Y93Ml blockquote {
+  color: #767676;
+}
+.cid-s20k6Y93Ml .mbr-text P {
+  text-align: center;
+}
+.cid-s20k6Y93Ml .mbr-text {
+  color: #000000;
+}
 .cid-s1MOj2b58B {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-s1MOj2b58B .mbr-text {
-  color: #000000;
+  color: #767676;
 }
 .cid-s1MOj2b58B .mbr-text P {
   text-align: justify;
