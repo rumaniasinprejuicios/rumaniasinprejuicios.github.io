@@ -9606,15 +9606,16 @@ section.lazy-placeholder:after {
 .cid-s1MQITgLMq H1 {
   color: #ffffff;
 }
-.cid-s1MQZNhCKn {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
+.cid-s20nNrYrXq {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
-.cid-s1MQZNhCKn .mbr-text {
-  color: #000000;
+.cid-s20nNrYrXq P {
+  color: #767676;
 }
-.cid-s1MQZNhCKn .mbr-text P {
+.cid-s20nNrYrXq .mbr-text,
+.cid-s20nNrYrXq .mbr-section-btn {
   text-align: justify;
 }
 .cid-rW3kKRSs4s .navbar {
