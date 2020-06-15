@@ -4579,6 +4579,46 @@ section.lazy-placeholder:after {
 .cid-s1YmEP8p85 .mbr-text P {
   text-align: justify;
 }
+.cid-s1ZdWRFkuG {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s1ZdWRFkuG .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s1ZdWRFkuG .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-s1ZdWRFkuG .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-s1ZdWRFkuG .team-item .item-image img {
+  width: 100%;
+}
+.cid-s1ZdWRFkuG .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-s1ZdWRFkuG .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-s1ZdWRFkuG .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-s1ZdWRFkuG .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-s1ZdWRFkuG .team-item .item-caption {
+  background: #efefef;
+}
 .cid-s1Z6QFZyLP {
   padding-top: 60px;
   padding-bottom: 60px;
