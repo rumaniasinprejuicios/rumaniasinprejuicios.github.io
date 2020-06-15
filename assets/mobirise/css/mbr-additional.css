@@ -4101,10 +4101,10 @@ section.lazy-placeholder:after {
   min-height: 188px;
 }
 .cid-rVGh3EGxes {
-  background-image: url("../../../assets/images/dsc-2020-01-22-at-15.14.44-1-1600x1060.jpeg");
+  background-image: url("../../../assets/images/dsc-2020-01-22-at-15.14.48-1600x1060.jpeg");
 }
 .cid-rVGh3EGxes H1 {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-rVGh3EGxes H3 {
   color: #ffffff;
@@ -4128,27 +4128,131 @@ section.lazy-placeholder:after {
   color: #000000;
   text-align: center;
 }
-.cid-rWrcbP33j7 {
-  background: #0f7699;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #cc2952, #0f7699);
+.cid-s1Ym0vvYhQ {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
 }
-.cid-rWrcbP33j7 .image-block {
+.cid-s1Ym0vvYhQ .mbr-text {
+  color: #000000;
+}
+.cid-s1Ym0vvYhQ .mbr-text P {
+  text-align: justify;
+}
+.cid-s1YT2C4htU {
+  background: #000000;
+}
+.cid-s1YT2C4htU .video-block {
   margin: auto;
-}
-.cid-rWrcbP33j7 figcaption {
-  position: relative;
-}
-.cid-rWrcbP33j7 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+  width: 90% !important;
 }
 @media (max-width: 768px) {
-  .cid-rWrcbP33j7 .image-block {
-    width: 100% !important;
+  .cid-s1YT2C4htU .video-block {
+    width: 90% !important;
   }
+}
+.cid-s1Ym7FkWMs {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s1Ym7FkWMs .mbr-text {
+  color: #000000;
+}
+.cid-s1Ym7FkWMs .mbr-text P {
+  text-align: justify;
+}
+.cid-s1Ymd9DZTC {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s1Ymd9DZTC .mbr-text {
+  color: #000000;
+}
+.cid-s1Ymd9DZTC .mbr-text P {
+  text-align: justify;
+}
+.cid-s1YmnKyYAT {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/un-euro-36-lei-1920x1080.jpeg");
+}
+.cid-s1YmnKyYAT P {
+  color: #767676;
+}
+.cid-s1YmnKyYAT .mbr-text,
+.cid-s1YmnKyYAT .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-s1Ymhio8JV {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s1Ymhio8JV .mbr-text {
+  color: #000000;
+}
+.cid-s1Ymhio8JV .mbr-text P {
+  text-align: justify;
+}
+.cid-s1YmrpoimU {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s1YmrpoimU .mbr-text {
+  color: #000000;
+}
+.cid-s1YmrpoimU .mbr-text P {
+  text-align: justify;
+}
+.cid-s1YmtwPoNz {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/un-euro-36-lei-1920x1080.jpeg");
+}
+.cid-s1YmtwPoNz P {
+  color: #767676;
+}
+.cid-s1YmtwPoNz .mbr-text,
+.cid-s1YmtwPoNz .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-s1YmvrHqGy {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s1YmvrHqGy .mbr-text {
+  color: #000000;
+}
+.cid-s1YmvrHqGy .mbr-text P {
+  text-align: justify;
+}
+.cid-s1YmCZx87g {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s1YmCZx87g .mbr-text {
+  color: #000000;
+}
+.cid-s1YmCZx87g .mbr-text P {
+  text-align: justify;
+}
+.cid-s1YmEP8p85 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s1YmEP8p85 .mbr-text {
+  color: #000000;
+}
+.cid-s1YmEP8p85 .mbr-text P {
+  text-align: justify;
 }
 .cid-rW3kKRSs4s .navbar {
   padding: .5rem 0;
